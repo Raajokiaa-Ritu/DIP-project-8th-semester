@@ -25,7 +25,9 @@ N.B.
 -> yolo models works very slow in CPU, ideal for GPU
 
 =========CODING IN PROGRESS============
+
 -> alarm system coding part
+
 -> send a remote alarm to the admin via email coding part
 
 
