@@ -1,4 +1,4 @@
-# DIP-project-8th-semester
+# Fire Detection using yolov8
 
 1 . dataset --> " 1.dataset.rar "
 
@@ -26,7 +26,6 @@ N.B.
 
 =========CODING IN PROGRESS============
 
--> alarm system coding part
 
 -> send a remote alarm to the admin via email coding part
 
